@@ -1,15 +1,15 @@
 {
   "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
-  "name": "John Doe",
-  "ascii": "liveterm",
+  "title": "HACKERMAN",
+  "name": "John Wick",
+  "ascii": "hackerman",
   "social": {
     "github": "github",
     "linkedin": "linkedin"
   },
   "email": "contact@email.com",
-  "ps1_hostname": "liveterm",
-  "ps1_username": "visitor",
+  "ps1_hostname": "terminal",
+  "ps1_username": "n00b",
   "repo": "https://github.com/Cveinnt/LiveTerm",
   "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
   "donate_urls": {
